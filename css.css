@@ -1,0 +1,10 @@
+/* saira.css */
+
+@font-face {
+    font-family: 'AJDWP_fonts_Saira';
+    src: url('./web_fonts/Saira-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
